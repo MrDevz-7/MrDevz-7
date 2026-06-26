@@ -24,7 +24,7 @@ I care about two things when I ship: **the client owns their content autonomousl
 
 ### [No Borders Yoga](https://nobordersyoga.com) — nobordersyoga.com
 
-Bilingual (ES/EN) platform for a yoga instructor. Full-stack architecture: headless CMS (Strapi v5), PostgreSQL on Supabase, image delivery via Cloudinary, deployed on Netlify + Render with automated keep-alive through UptimeRobot + GitHub Actions.
+Platform for a yoga instructor. Full-stack architecture: headless CMS (Strapi v5), PostgreSQL on Supabase, image delivery via Cloudinary, deployed on Netlify + Render with automated keep-alive through UptimeRobot + GitHub Actions.
 
 The client manages all content independently — classes, retreats, blog — zero technical dependency.
 **→ 3+ months in production. Zero downtime.**
