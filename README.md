@@ -18,8 +18,6 @@
 
 I build full-stack web applications — from schema design and REST APIs to frontend rendering and cloud deployment. My current focus is shipping reliable production systems and building AI-powered products end-to-end.
 
-I care about two things when I ship: **the client owns their content autonomously**, and **the system stays up without babysitting.**
-
 ---
 
 ## 🚀 In Production
