@@ -1,6 +1,6 @@
 <h1 align="center">Mauricio Ramirez</h1>
 <p align="center">
-  <strong>Full Stack Developer</strong> &nbsp;·&nbsp; React · Python · Applied AI &nbsp;·&nbsp; Medellín, Colombia 🇨🇴
+  <strong>Full-Stack Developer</strong> &nbsp;·&nbsp; Backend & AI-Integration Focus · React · Python &nbsp;·&nbsp; Medellín, Colombia 🇨🇴 (UTC-5)
 </p>
 <p align="center">
   <a href="https://mrdevzportfolio.netlify.app/">🌐 Portfolio</a>
@@ -16,7 +16,7 @@
 
 ---
 
-I build full-stack web applications — from schema design and REST APIs to frontend rendering and cloud deployment. My current focus is shipping reliable production systems and building AI-powered products end-to-end.
+I build full-stack products end-to-end — schema design, REST APIs, frontend rendering, LLM orchestration, and cloud deployment — and I document what I build so a team can pick it up without me in the room. My deepest focus is backend systems and AI integration, and shipping production systems that stay up when things go wrong, not just CRUD that works in a demo. Based in Medellín, Colombia (UTC-5), which means full overlap with US Eastern business hours.
 
 ---
 
@@ -54,17 +54,15 @@ The client manages all content independently — classes, retreats, blog — zer
 
 | Area | Technologies |
 |---|---|
-| **Frontend** | React · Next.js · TypeScript · JavaScript · Tailwind CSS · Vite · HTML5/CSS3 |
 | **Backend** | Python · FastAPI · Node.js · Java · Strapi v5 |
-| **Databases** | PostgreSQL · MySQL · SQLite · Supabase |
 | **AI & Automation** | Gemini API · Prompt engineering · Playwright |
+| **Databases** | PostgreSQL · MySQL · SQLite · Supabase |
 | **DevOps / Cloud** | Docker · GitHub Actions · Netlify · Render · Vercel · Cloudinary |
+| **Frontend** | React · Next.js · TypeScript · JavaScript · Tailwind CSS · Vite · HTML5/CSS3 |
 | **Testing & Tools** | Pytest · Playwright · Streamlit · Git |
 
 ---
 
 ## 📫 Open to
 
-Full Stack · Backend · Python/AI automation roles — Medellín on-site, hybrid, or remote (Colombia and international, US timezone overlap).
-
----
+Full-Stack · Backend · AI/LLM integration roles — remote (Colombia and international, full overlap with US Eastern business hours), or on-site/hybrid in Medellín.
