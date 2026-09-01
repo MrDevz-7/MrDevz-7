@@ -34,7 +34,7 @@ Headless CMS (Strapi v5), PostgreSQL on Supabase, image delivery via Cloudinary,
 
 The client manages all content independently — classes, retreats, blog — zero technical dependency.
 
-**→ 3+ months in production. Zero downtime.**
+**→ 6+ months in production. Zero downtime.**
 
 `React` `Tailwind` `Strapi v5` `PostgreSQL` `Supabase` `Cloudinary` `Netlify` `Render` `GitHub Actions`
 
