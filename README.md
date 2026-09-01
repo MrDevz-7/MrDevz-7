@@ -42,11 +42,11 @@ The client manages all content independently — classes, retreats, blog — zer
 
 ## 🔧 Currently building
 
-**Machine Learning Specialization** (Andrew Ng · Stanford / DeepLearning.AI · Coursera) — ✅ completed 2026, now applying supervised and unsupervised learning to the lead-scoring logic in CustoFinder.
+**Machine Learning Specialization** (Andrew Ng · Stanford / DeepLearning.AI · Coursera) — ✅ completed 2026. Starting a hands-on project to put supervised and unsupervised learning into practice — will be published here soon.
 
 **Data Structures & Algorithms** — practicing on HackerRank toward verified badges.
 
-**Cybersecurity** — deepening beyond the Google Cybersecurity Fundamentals & Risk Management track already completed.
+**Cybersecurity** — deepening beyond the Google Cybersecurity Fundamentals & Risk Management track already completed. Planning to pursue AWS cybersecurity certifications next.
 
 ---
 
