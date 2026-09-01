@@ -68,7 +68,3 @@ The client manages all content independently — classes, retreats, blog — zer
 Full Stack · Backend · Python/AI automation roles — Medellín on-site, hybrid, or remote (Colombia and international, US timezone overlap).
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrDevz-7&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Mauricio's GitHub stats" />
-</p>
